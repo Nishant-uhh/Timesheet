@@ -1,0 +1,50 @@
+17:29:03.027 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\2303472\eclipse-workspace\Timesheet\master.xml"
+17:29:03.094 [main] WARN  org.testng.xml.TestNGContentHandler - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >" at the top of the suite file [C:\Users\2303472\eclipse-workspace\Timesheet\master.xml] otherwise TestNG may fail or not work as expected.
+17:29:03.947 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\2303472\eclipse-workspace\Timesheet\master.xml
+
+17:29:25.107 [main] INFO  testCases.TC_001_HomePage - **** starting TC_001_BeCognizantPage  *****
+17:29:31.798 [main] INFO  testCases.TC_001_HomePage - Clicked on UserDetails link
+17:29:34.237 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+17:29:34.238 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:29:34.615 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:29:34.645 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:29:34.668 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:29:34.705 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+17:29:34.707 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+17:29:34.709 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+17:29:34.881 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:29:34.893 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:29:35.252 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:29:35.256 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:29:35.260 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:29:35.261 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:29:35.265 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+17:29:35.266 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+17:29:35.267 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+17:29:35.272 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+17:29:35.281 [main] INFO  testCases.TC_001_HomePage - username received
+17:29:35.366 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:29:35.369 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:29:35.432 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:29:35.436 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:29:35.440 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:29:35.441 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:29:35.445 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+17:29:35.447 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+17:29:35.448 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+17:29:35.452 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+17:29:35.456 [main] INFO  testCases.TC_001_HomePage - email received
+17:29:38.795 [main] INFO  testCases.TC_001_HomePage - OneCognizant page exist
+17:29:39.071 [main] INFO  testCases.TC_001_HomePage - Successfully clicked on oneCognizant
+17:29:39.097 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_002_OneCognizantPage  ****
+17:29:48.612 [main] INFO  testCases.TC_001_HomePage - clicked on SubmitTimesheet..
+17:29:48.613 [main] INFO  testCases.TC_001_HomePage - **** Finished TC_002_OneCognizantPage  ****
+17:29:48.626 [main] INFO  testCases.TC_001_HomePage - **** Starting TC_003_VerifyTimesheet *****
+17:29:54.424 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+17:29:54.426 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+17:29:54.473 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+17:29:54.477 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+17:29:54.480 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+17:29:54.481 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+17:29:54.485 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
